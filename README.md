@@ -5,7 +5,8 @@ This project is aimed to offer you a C/C++ implementation of Sudoku game.
 ## Features
 ### Usernames  
 You can enter any username to start playing. <ins>Note that you can't enter usernames that were taken previously.</ins>
-<br>
+
+
 ![A screenshot of username box taken in-game](https://github.com/user-attachments/assets/d9196330-ed7d-4ae1-bb73-eb3ab4d6090a)
 
 ### Main Menu  
