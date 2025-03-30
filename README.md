@@ -23,7 +23,8 @@ You are assigned to solve a 9x9 sudoku puzzle within the time-limit. You can mak
 > You can save your game by pressing the S key and enter a name for your saved game so you can choose it in the saved games menu. After you save your game you can safely quit the game by pressing the M key.  
 > ![A screenshot of the saved games menu](https://github.com/user-attachments/assets/17804c1c-1dac-4dc0-bebd-3b8adea5ab94)
 
-You can quit the game by pressing the Q key but you'll lose the game.  
+You can quit the game by pressing the Q key but you'll lose the game.
+
 * Results  
 Once you finish your game, you are directed to the *Results* where you can see your score, number of correct moves and wrong moves, time record and...  
 ![A screenshot of results page](https://github.com/user-attachments/assets/39f8094c-fc32-4029-8f74-7dadf1896ab3)
