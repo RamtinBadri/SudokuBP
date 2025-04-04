@@ -59,7 +59,7 @@ You can visit the leaderboard via main menu and see the scores of the previous p
 ### Steps
 1. Clone the repository:
 ```
-https://github.com/RamtinBadri/SudokuBP.git
+git clone https://github.com/RamtinBadri/SudokuBP.git
 ```
 2. Go to the project directory:
 ```
