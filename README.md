@@ -55,7 +55,7 @@ You can visit the leaderboard via main menu and see the scores of the previous p
 
 ![A screenshot of the leaderboard](https://github.com/user-attachments/assets/7d38b466-9593-49aa-9be9-bc3500409184)
 
-## Build Instructions (for CMD)
+## Build Instructions
 ### Steps
 1. Clone the repository:
 ```
